@@ -10,7 +10,7 @@ import requests
 import json
 # You need to update the SUBSCRIPTION_KEY to
 # they key for your Computer Vision Service
-SUBSCRIPTION_KEY = "75c27cccdfcd48ad87375f856cdbfed0"
+SUBSCRIPTION_KEY = ""
 
 # You need to update the vision_service_address to the address ofpip install pylint
 # your Computer Vision Service
